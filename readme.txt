@@ -6,13 +6,6 @@ My Portfolio Site.
 
 ==================================================================================================
 
-
-LICENSE:
-
-This free resource is provided by styleshout.com and is free to use in 
-both personal and commercial projects.
-
-
 Rights:
 -------
 
